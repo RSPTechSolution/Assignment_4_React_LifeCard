@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+        --primary-color: #3d99f5;
+        --primary-color-hover: #2a88e8;
+        --text-primary: #111418;
+        --text-plain: #fff;
+        --card-background: #1a1e24;
+        --text-secondary: #60758a;
+      }
+
+.user-card {
+            @apply bg-[var(--card-background)] rounded-2xl p-6 text-center transition-all duration-300 ease-in-out flex flex-col items-center shadow-lg;
+        }
+        .user-card:hover {
+            @apply transform -translate-y-2 shadow-2xl bg-[#20252c];
+        }

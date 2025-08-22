@@ -1,0 +1,79 @@
+[
+    {
+      "uid": 1,
+      "full_name": "Arjun Mehra",
+      "image": "https://i.postimg.cc/bGHgZ2yS/alex-suprun-b-YODy-Sp-LIh-E-unsplash.jpg",
+      "role": "Frontend Developer",
+      "bio": "Passionate about creating visually appealing and responsive user interfaces using React and Tailwind CSS.",
+      "phone": "+91-9876543210",
+      "email": "arjun.mehra@example.com",
+      "dob": "1993-04-12",
+      "address": "101 Park Street, Delhi, India"
+    },
+    {
+      "uid": 2,
+      "full_name": "Neha Kapoor",
+      "image": "https://i.postimg.cc/ts62HM85/alex-suprun-myns-Na-Nw-VDc-unsplash.jpg",
+      "role": "Backend Developer",
+      "bio": "Experienced in building secure and scalable backend solutions with Node.js and Express.",
+      "phone": "+91-9876501234",
+      "email": "neha.kapoor@example.com",
+      "dob": "1995-06-20",
+      "address": "202 Green Avenue, Mumbai, India"
+    },
+    {
+      "uid": 3,
+      "full_name": "Rohit Sharma",
+      "image": "https://i.postimg.cc/XGsg8SyV/alex-suprun-ZHv-M3-XIOHo-E-unsplash.jpg",
+      "role": "UI/UX Designer",
+      "bio": "Designs clean, user-friendly interfaces and ensures smooth user experiences.",
+      "phone": "+91-9845098765",
+      "email": "rohit.sharma@example.com",
+      "dob": "1991-12-05",
+      "address": "303 Rose Colony, Bangalore, India"
+    },
+    {
+      "uid": 4,
+      "full_name": "Sanya Malhotra",
+      "image": "https://i.postimg.cc/fkbCbL6k/alexander-hipp-i-EEBWg-Y-6l-A-unsplash.jpg",
+      "role": "Project Manager",
+      "bio": "Leads projects with a focus on agile methodology, ensuring timely delivery and quality results.",
+      "phone": "+91-9812345678",
+      "email": "sanya.malhotra@example.com",
+      "dob": "1989-09-15",
+      "address": "404 Silver Park, Pune, India"
+    },
+    {
+      "uid": 5,
+      "full_name": "Vikram Singh",
+      "image": "https://i.postimg.cc/GHVqVCgt/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+      "role": "QA Engineer",
+      "bio": "Ensures product quality through automated and manual testing for flawless user experiences.",
+      "phone": "+91-9821098765",
+      "email": "vikram.singh@example.com",
+      "dob": "1994-07-21",
+      "address": "505 Grand Plaza, Hyderabad, India"
+    },
+    {
+      "uid": 6,
+      "full_name": "Priya Nair",
+      "image": "https://i.postimg.cc/YGr3Yq0n/julian-wan-2-Ed-IX-O2lk-I-unsplash.jpg",
+      "role": "Content Strategist",
+      "bio": "Specializes in creating engaging content strategies to align with brand goals.",
+      "phone": "+91-9898012345",
+      "email": "priya.nair@example.com",
+      "dob": "1992-11-08",
+      "address": "606 Emerald Residency, Kochi, India"
+    },
+    {
+      "uid": 7,
+      "full_name": "Kabir Joshi",
+      "image": "https://i.postimg.cc/sBRKfJrR/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+      "role": "DevOps Engineer",
+      "bio": "Automates infrastructure and deployment processes, ensuring smooth CI/CD pipelines.",
+      "phone": "+91-9887098765",
+      "email": "kabir.joshi@example.com",
+      "dob": "1990-02-17",
+      "address": "707 Skyline Towers, Ahmedabad, India"
+    }
+  ]
