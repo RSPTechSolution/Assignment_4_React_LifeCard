@@ -21,7 +21,7 @@ const NotFound = () => {
             ></path>
           </svg>
         </div>
-        <h1 className="text-6xl md:text-8xl font-black text-gray-800 dark:text-white mb-4">
+        <h1 className="text-6xl md:text-8xl font-black text-gray-800 dark:text-dark mb-4">
           404
         </h1>
         <h2 className="text-2xl md:text-3xl font-bold text-dark-700 dark:text-dark-200 mb-4">
